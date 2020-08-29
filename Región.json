@@ -1,0 +1,6 @@
+{
+ "Nombre" : "Teselia" ,
+ "CiudadesyPueblos" : [ "Pueblo Arcilla" , "Pueblo Terracota" , "Ciudad Gres" , "Ciudad Esmalte" , "Ciudad Porcelana" , "Ciudad Mayólica" , "Ciudad Fayenza" , "Ciudad Loza" , "Ciudad Teja" , "Pueblo Biscuit" , "Ciudad Caolín" , "Pueblo Ladrillo" , "Pueblo Arenisca" "Bosque Blanco" , "Ciudad Negra" , "Ciudad Engobe" , "Pueblo Ocre" , "Ciudad Hormigón" , "Ciudad Marga" , "Pueblo Chamota" ] ,
+ "TipodeGimnasios" : ["Planta/Agua/Fuego" , "Normal" , "Insecto" , "Eléctrico" , "Tierra" , "Volador" , "Hielo" , "Dragón" , "Veneno" , "Agua" ] ,
+ "NumGeneración" : 5
+}
